@@ -56,8 +56,7 @@ body {
 }
 
 h1 {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding: 30px;
   margin-block-start: 2rem;
   color: #fae3da;
 }
